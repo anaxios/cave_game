@@ -31,7 +31,7 @@ pushd $CACHE;
 if [[ ! -f "$HOLESAIL_FILE_NAME" ]]; then
     echo "Downloading $HOLESAIL_FILE_NAME";
 	
-    wget $HOLESALE;
+    curl -L -O $HOLESALE;
 	chmod +x $HOLESAIL_FILE_NAME;
 fi
 
