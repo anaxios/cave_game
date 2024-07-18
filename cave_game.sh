@@ -16,7 +16,7 @@ ARCH="$(uname -m)";
 if [[ "$ARCH" == "x86_64" ]]; then
 	HOLESAIL_FILE_NAME="$HOLESAIL_FILE_NAME_LINUX_x86_64";
 	HOLESALE="$HOLESAIL_LINUX_x86_64";
-elif [[ "$ARCH" == "aarch64" ]]; then
+elif [[ "$ARCH" == "aarch64" || "$ARCH" == "arm64" ]]; then
 	HOLESAIL_FILE_NAME="$HOLESAIL_FILE_NAME_LINUX_aarch64";
 	HOLESALE="$HOLESAIL_LINUX_aarch64";
 fi
