@@ -1,0 +1,13 @@
+name = "ChickensShed"
+filename = "chickensshed-fabric-1.6.0+mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRJuLZ2D/versions/MAxCwR3h/chickensshed-fabric-1.6.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "e95f29cbc80b6e840f3381b9446d610d449207196bdffa04456ac901cd326d8279e5336ed2bc3ca964e91f1a32f52e4fb7e37bfacb3b662d662966452f8831e1"
+
+[update]
+[update.modrinth]
+mod-id = "cRJuLZ2D"
+version = "MAxCwR3h"

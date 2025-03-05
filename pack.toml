@@ -1,0 +1,13 @@
+name = "Cave Game"
+author = "ilGuappo"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "215dfb113999a8c1b9f1044c1aefa7cd35c9408759c8263ad356be49976b3be8"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

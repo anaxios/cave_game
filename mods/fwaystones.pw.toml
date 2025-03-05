@@ -1,0 +1,13 @@
+name = "Wraith Waystones"
+filename = "wraith-waystones-3.3.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/DZAntbmD/wraith-waystones-3.3.2%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "1d7d07e4910670899108a6c4cb570f27dcf0a9502ca477d19be3e0f486e4c0720ef51d4854fed8f7b55823cde63741065aaf6836d849af1ce25e75e54329d999"
+
+[update]
+[update.modrinth]
+mod-id = "sTZr7NVo"
+version = "DZAntbmD"

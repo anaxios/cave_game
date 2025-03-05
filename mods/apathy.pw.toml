@@ -1,0 +1,13 @@
+name = "Apathy"
+filename = "apathy-fabric-1.20.1-2.7.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fvtFPg1k/versions/2v7E22NN/apathy-fabric-1.20.1-2.7.1.jar"
+hash-format = "sha512"
+hash = "fd5338866183e1c078dfd95ec63a39050881342d128aa6bf587db370a0f4fcab2d7a8affe50dadf27ed198d04b0aed02a1f78760019ae2a4c192315f3a044871"
+
+[update]
+[update.modrinth]
+mod-id = "fvtFPg1k"
+version = "2v7E22NN"
