@@ -414,6 +414,11 @@ hash = "e0047e26d3d4a5a290dc150e9a7c5c5f64cde9e6a0538eaa6f6060374349700f"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "5d8ac00b4b361810f9b79e21b2d250c4302f8949a93ae06fe7c87d7011c04147"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "af8c4da9d92fa2e95a4f147cb6b1577c89cd82265d2c3317076a7c16dc8f4d87"
 metafile = true
