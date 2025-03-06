@@ -259,6 +259,16 @@ hash = "f4028c108eeadb5f916bcd043e85d8c34dd0f28d10a65595b7ee676f219439c6"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f251cafe3cd3297df6a055a1d5df2c3390f791e2420fc666c5b9ee7fc62126b1"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true
@@ -426,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "82f2482d9c8e39dbdc8cf303866d7fb087861aec2a0b5564ce7fc37caf274750"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "39e2df952d4b2ebd08141e39d830252fbcc3b61cfa287414b7520ac969e0a029"
 metafile = true
 
 [[files]]
