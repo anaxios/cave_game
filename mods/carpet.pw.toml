@@ -1,6 +1,6 @@
 name = "Carpet"
 filename = "fabric-carpet-1.21-1.4.147+v240613.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar"

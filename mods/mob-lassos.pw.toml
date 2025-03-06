@@ -1,0 +1,13 @@
+name = "Mob Lassos"
+filename = "MobLassos-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ftOBbnu8/versions/e9DxnF1t/MobLassos-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "0d75eb4c3b8dcc130c124e7b05620ae2d0bdcc0541d492cffd76c1449b1caa00ca8bc7946468d3a02f1a32ce9e49d5c6b56601552e96168c3aaef79af106b10b"
+
+[update]
+[update.modrinth]
+mod-id = "ftOBbnu8"
+version = "e9DxnF1t"

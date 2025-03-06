@@ -1,6 +1,6 @@
 name = "ChickensShed"
 filename = "chickensshed-fabric-1.6.1+mc1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cRJuLZ2D/versions/r7GSmlUo/chickensshed-fabric-1.6.1%2Bmc1.21.jar"

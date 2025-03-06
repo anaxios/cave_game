@@ -1,12 +1,12 @@
 name = "Cave Game"
 author = "ilGuappo"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "410b3c7158a9ad2fc8b97dd2563cf013a834e992c46b9a2a301be735c9c621a4"
+hash = "7e6c9bce6e1d1a30ff99b54f894bb6c4ee4008a2267c94665bc9ce9f7986fc9e"
 
 [versions]
 fabric = "0.16.10"

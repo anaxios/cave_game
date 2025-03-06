@@ -1,6 +1,6 @@
 name = "Just Player Heads"
 filename = "justplayerheads-1.21.1-4.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YdVBZMNR/versions/Bhim3m1a/justplayerheads-1.21.1-4.2.jar"

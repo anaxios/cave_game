@@ -1,0 +1,13 @@
+name = "Full Turtle Armor"
+filename = "fullturtlearmor-1.10.3-fabric-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hj5mCXkB/versions/381lyIPu/fullturtlearmor-1.10.3-fabric-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "71f89a3f83e325534198095167f0913251a5aeaa9238a6c73c15c09a48a0acdba7cb82a6e4445b827463609817c1b0fe4d98be263fb5d1995220d7c3c551a761"
+
+[update]
+[update.modrinth]
+mod-id = "Hj5mCXkB"
+version = "381lyIPu"

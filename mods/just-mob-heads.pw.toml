@@ -1,6 +1,6 @@
 name = "Just Mob Heads"
 filename = "justmobheads-1.21.1-8.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jzTUm9hE/versions/tVPeAVbm/justmobheads-1.21.1-8.5.jar"

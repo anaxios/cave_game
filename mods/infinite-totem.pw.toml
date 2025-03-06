@@ -1,0 +1,13 @@
+name = "Totem of Infinity"
+filename = "TotemOfInfinity_v1.2.1b-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T3niFhcB/versions/PyEafZr2/TotemOfInfinity_v1.2.1b-1.21.4.jar"
+hash-format = "sha512"
+hash = "8863e956dd08cb43f37191ed1aac440fa8c50b775e360df4472d09b735dc39dcbc6eaa7d78e34de41598fe32b214b657ca6c4d94ece01896d7fe990b75ad094b"
+
+[update]
+[update.modrinth]
+mod-id = "T3niFhcB"
+version = "PyEafZr2"
