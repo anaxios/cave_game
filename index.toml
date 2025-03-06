@@ -429,6 +429,11 @@ hash = "dfed5563b85115f032513a20edf7481c0c06d6c02725c0df18a8acf0a028323f"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "82f2482d9c8e39dbdc8cf303866d7fb087861aec2a0b5564ce7fc37caf274750"
 metafile = true
