@@ -204,11 +204,6 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
-file = "mods/infinite-totem.pw.toml"
-hash = "6441b5be4a88ffac5fd266371eeac0c1e9c116c259200805da59a545e23b3898"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
@@ -360,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
+hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
 metafile = true
 
 [[files]]
