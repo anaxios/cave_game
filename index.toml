@@ -384,6 +384,11 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/solstice-essentials.pw.toml"
+hash = "a3ebd91d5ed852c218c6c7db0539367d3a1884f0065e7ff30af633f0f642b9c9"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
 hash = "f5f914752c2506ac9cde7bdc3807ca9f2ebe0c0f22ee6571d7bd7b32d1297491"
 metafile = true
