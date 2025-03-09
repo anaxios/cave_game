@@ -9,10 +9,6 @@ file = "cave_game.sh"
 hash = "622ae516b43956323c6a40ca24f1eaebfbbf8ab0072639bfbb9cceb264a7b35a"
 
 [[files]]
-file = "datapacks/crushing.zip"
-hash = "9a612ffb691960b5b6058931e2f5bce85872433b173fc81d2a948b5afe9909da"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "f5ac95da0f07550e059ef95771d132beb67d3e529899737bd4048387486de03d"
 metafile = true
@@ -524,6 +520,10 @@ hash = "9b1e876de2f4976dd745c54c3ad49e1fa49f4cf5db97a76ea126f5e29174b76f"
 [[files]]
 file = "world/datapacks/confetti creepers v2.2.8 (MC 1.20-1.20.6).zip"
 hash = "8f0692bf66a46194f1c7203c0eeb48f04858eca3868521aac427679d5de55d61"
+
+[[files]]
+file = "world/datapacks/crushing.zip"
+hash = "9a612ffb691960b5b6058931e2f5bce85872433b173fc81d2a948b5afe9909da"
 
 [[files]]
 file = "world/datapacks/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
