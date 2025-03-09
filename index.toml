@@ -14,11 +14,6 @@ hash = "f5ac95da0f07550e059ef95771d132beb67d3e529899737bd4048387486de03d"
 metafile = true
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "bafff88c35a0868535aeef5135d6baabc5f5499ccc752510d99622597425d1e6"
-metafile = true
-
-[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "716f5a27285b086823dbf12a5228f2274f2eade5b97f53f866ca203d97bf78bf"
 metafile = true
@@ -356,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "a7f84fa3501436192c721baf79147962266f3f4a631fbe20109d9df89ccfae95"
 metafile = true
 
 [[files]]
