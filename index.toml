@@ -534,10 +534,6 @@ file = "world/datapacks/dragon drops v1.3.7 (MC 1.20-1.20.6).zip"
 hash = "d5800bd4130b4643ef82585780d437136053d138c1387ba93d3e423fc366ca0e"
 
 [[files]]
-file = "world/datapacks/elevators v1.0.8 (MC 1.20-1.20.6).zip"
-hash = "7662df5d83768008bb7f900413e5fa33b8f928cba73e8a1e5b6a5bfba20795da"
-
-[[files]]
 file = "world/datapacks/pillager tools v1.1.7 (MC 1.20-1.20.6).zip"
 hash = "70fb22c452b8cbfba0a0f308f323d223fbadd3db39c7cd0231efee3c20372624"
 
