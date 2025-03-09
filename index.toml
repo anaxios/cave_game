@@ -9,6 +9,10 @@ file = "cave_game.sh"
 hash = "622ae516b43956323c6a40ca24f1eaebfbbf8ab0072639bfbb9cceb264a7b35a"
 
 [[files]]
+file = "datapacks/crushing.zip"
+hash = "9a612ffb691960b5b6058931e2f5bce85872433b173fc81d2a948b5afe9909da"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "f5ac95da0f07550e059ef95771d132beb67d3e529899737bd4048387486de03d"
 metafile = true
