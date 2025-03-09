@@ -522,10 +522,6 @@ file = "world/datapacks/confetti creepers v2.2.8 (MC 1.20-1.20.6).zip"
 hash = "8f0692bf66a46194f1c7203c0eeb48f04858eca3868521aac427679d5de55d61"
 
 [[files]]
-file = "world/datapacks/crushing.zip"
-hash = "9a612ffb691960b5b6058931e2f5bce85872433b173fc81d2a948b5afe9909da"
-
-[[files]]
 file = "world/datapacks/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
 hash = "3d051c91543d4cf46276531d1a5ed787bf40b5bb329ac7dedf7425b4fcb797ec"
 
