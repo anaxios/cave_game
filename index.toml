@@ -9,11 +9,6 @@ file = "cave_game.sh"
 hash = "622ae516b43956323c6a40ca24f1eaebfbbf8ab0072639bfbb9cceb264a7b35a"
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "f5ac95da0f07550e059ef95771d132beb67d3e529899737bd4048387486de03d"
-metafile = true
-
-[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "716f5a27285b086823dbf12a5228f2274f2eade5b97f53f866ca203d97bf78bf"
 metafile = true
