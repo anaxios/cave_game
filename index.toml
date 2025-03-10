@@ -424,6 +424,11 @@ hash = "5d632279cd2daec05f04723e0fbd1287ee69683a46a97602cdc1f3227a2ae797"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "689aa0e715b22a92073bc2d514f211565891dbbc6e2e5514facf5e6ffa74b97c"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "dfed5563b85115f032513a20edf7481c0c06d6c02725c0df18a8acf0a028323f"
 metafile = true
