@@ -449,11 +449,6 @@ hash = "a343e4dc55c01ae308ba84ba742e9acac817bd8b1b848e86b8c8a2cbfbdb3f27"
 metafile = true
 
 [[files]]
-file = "mods/visible-traders.pw.toml"
-hash = "602920a890743f4a3107f6d14bf9607a72802d610ae8c08c9aabe34cc567b367"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "ff2f782be8090072041d0cd00abed11c1a22dfe2d397cd73e042f3b449954588"
 metafile = true
