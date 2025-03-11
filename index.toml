@@ -464,6 +464,11 @@ hash = "ff2f782be8090072041d0cd00abed11c1a22dfe2d397cd73e042f3b449954588"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "786baf111038535834c4da3afcd045d67bceb3290094529e3d318b2a33ae6f3f"
 metafile = true
