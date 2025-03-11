@@ -1,4 +1,4 @@
-# cave_game
+# Cave Game
 
 ## Installation
 ### Step 1: Download and Set Up Prism Launcher
