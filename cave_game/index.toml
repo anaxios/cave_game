@@ -5,10 +5,6 @@ file = "README.md"
 hash = "f93b0ba1c898faa0e4cf6adf17c8efec4990a402a53c693aec2515e23751dcdc"
 
 [[files]]
-file = "cave_game.sh"
-hash = "622ae516b43956323c6a40ca24f1eaebfbbf8ab0072639bfbb9cceb264a7b35a"
-
-[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "716f5a27285b086823dbf12a5228f2274f2eade5b97f53f866ca203d97bf78bf"
 metafile = true
