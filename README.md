@@ -13,7 +13,11 @@
         - Select “Add Instance” to create a new instance.
 1. Choose Import
         - In the instance creation window, select “Import” as the source for modpacks.
-        - Paste this URL into the input field. https://yog.daedalist.net/Jaffa-Factory-2-prism.zip
+        - Paste this URL into the input field.
+
+```
+https://github.com/anaxios/cave_game/raw/refs/heads/latest/cave_game/cave_game-prism.zip
+```
 
 You are now set up to play on our modded Minecraft server!
 
