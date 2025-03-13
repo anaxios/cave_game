@@ -65,6 +65,10 @@ file = "global_packs/required_data/villager death messages v1.2.9 (MC 1.20-1.20.
 hash = "7f656a1dc0932df5d281ccc8c2145d5f59c07006357d207f2af732a58590170b"
 
 [[files]]
+file = "global_packs/required_resources/VanillaTweaks_r743510_MC1.20.x.zip"
+hash = "916ebb0fac947fdbbc7a95fbdb24b72068f780abdfef330f0bc5cac6af8a5124"
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "716f5a27285b086823dbf12a5228f2274f2eade5b97f53f866ca203d97bf78bf"
 metafile = true
