@@ -17,16 +17,16 @@ file = "global_packs/required_data/armored elytra v2.0.0 (MC 1.20-1.20.6).zip"
 hash = "0c86f54537849646c157cfd23c386d2686b1e94e2ee91bddce4ebaafb768aa3e"
 
 [[files]]
+file = "global_packs/required_data/cave_game_custom.zip"
+hash = "e5b8d58388284506cbb3db7311fab5ce722c351902f4e7ac5bd779a9675ef888"
+
+[[files]]
 file = "global_packs/required_data/chunk loaders v1.0.8 (MC 1.20-1.20.6).zip"
 hash = "9b1e876de2f4976dd745c54c3ad49e1fa49f4cf5db97a76ea126f5e29174b76f"
 
 [[files]]
 file = "global_packs/required_data/confetti creepers v2.2.8 (MC 1.20-1.20.6).zip"
 hash = "8f0692bf66a46194f1c7203c0eeb48f04858eca3868521aac427679d5de55d61"
-
-[[files]]
-file = "global_packs/required_data/crushing.zip"
-hash = "6a8e8852ef00a0d848b4f50b59c743c682ad5bf71b86852fe264bb74ceb9a750"
 
 [[files]]
 file = "global_packs/required_data/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
