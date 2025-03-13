@@ -1,5 +1,7 @@
 # Cave Game
 
+Submit feedback by creating a new Issue [here](https://github.com/anaxios/cave_game/issues/new)
+
 ## Installation
 ### Step 1: Download and Set Up Prism Launcher
 
