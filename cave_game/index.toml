@@ -18,7 +18,7 @@ hash = "0c86f54537849646c157cfd23c386d2686b1e94e2ee91bddce4ebaafb768aa3e"
 
 [[files]]
 file = "global_packs/required_data/cave_game_custom.zip"
-hash = "e5b8d58388284506cbb3db7311fab5ce722c351902f4e7ac5bd779a9675ef888"
+hash = "e4d1b4fbcd1ab0ae705f7a5a4177112e61150348ffd31a0b3a89795188bb7c3c"
 
 [[files]]
 file = "global_packs/required_data/chunk loaders v1.0.8 (MC 1.20-1.20.6).zip"
