@@ -174,6 +174,11 @@ hash = "6957ba2519b78040639a1368df90ec5197cb3e0cd24764aed30efce4cb182e6c"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "8d6dee172f0c0565b2b34138f4a957e3a6fbf65891c6144c5eb3d3c0667b5aa4"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "2c30cc955cf3bea7b0a3b6fcbab5b6df641902ccf44f4f569b13816c49205c62"
 metafile = true
@@ -231,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8a1832e5352f6ea6307b9af759034ac9a9b654823120cc8181f7f36171d7c24f"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
 
 [[files]]
@@ -419,6 +429,11 @@ hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "a812307bc32bf4fa246f43e3d7dfd758c6ad75fc54448660303664582e4d272e"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "4914ed8c85496059f8dbd4eccc4009bc827efb3398d0ccc101517723c8da8e34"
 metafile = true
@@ -551,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c45d6735a5767c1486000d95dd0d4ed6e2c1227edf6b2ff305d40ad859af1ce0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]

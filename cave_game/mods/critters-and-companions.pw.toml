@@ -1,0 +1,13 @@
+name = "Critters and Companions"
+filename = "crittersandcompanions-fabric-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/aUJDlQHP/crittersandcompanions-fabric-2.2.2.jar"
+hash-format = "sha512"
+hash = "aec6307d5cea4532673a83b85b41978d204589692f85989689bf2bf8afa775b73ff9bbdd4398905b311cd77e75645c158c8d489fe481dfc047a4dda404108281"
+
+[update]
+[update.modrinth]
+mod-id = "Yd4wb5wZ"
+version = "aUJDlQHP"
