@@ -189,6 +189,11 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b58e81bdab1b3db9bdbf331e45f7438abdf62b63e495dccc003b3ebdf02a3abf"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "8dc45c624a42cf37b923957c9e75c27c26e28e6b4ecee63d0ebe82b41d2e416c"
 metafile = true
