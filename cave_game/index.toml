@@ -175,6 +175,11 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "fa10f81c1e61a4382820f76c7cea1652f2b43742e156a586c19ce375dd6e180b"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
