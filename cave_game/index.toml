@@ -18,7 +18,7 @@ hash = "0c86f54537849646c157cfd23c386d2686b1e94e2ee91bddce4ebaafb768aa3e"
 
 [[files]]
 file = "global_packs/required_data/cave_game_custom.zip"
-hash = "72b7867f7b1b432c41b446e9ef0d88a97d240a8d4a46d051ab8485bb8e4ff24b"
+hash = "decc744fccb0944cd0eb7d2f63e3a1d26b9ac4d288f1cf009bd2e9a4f9b19d3a"
 
 [[files]]
 file = "global_packs/required_data/chunk loaders v1.0.8 (MC 1.20-1.20.6).zip"
@@ -587,10 +587,6 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_r743510_MC1.20.x.zip"
-hash = "916ebb0fac947fdbbc7a95fbdb24b72068f780abdfef330f0bc5cac6af8a5124"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
