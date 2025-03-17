@@ -1,7 +1,7 @@
 # Exclude exported CurseForge zip files
 
 *.zip
-
+!cave_game-prism-latest.zip
 
 
 # Exclude exported Modrinth modpacks
