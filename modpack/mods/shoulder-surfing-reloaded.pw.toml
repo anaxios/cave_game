@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-NeoForge-1.21.1-4.10.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/dDdKcTOE/ShoulderSurfing-NeoForge-1.21.1-4.10.1.jar"
+hash-format = "sha512"
+hash = "65187950607243a0275ff83a0ec4597e8b7fff7c2a6675f1cf4fe0fcf736f9d235c92286a7f68ddcc20d1e07215f35780e16a8b5286d728b5f6766546f0b907e"
+
+[update]
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "dDdKcTOE"

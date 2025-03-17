@@ -1,0 +1,13 @@
+name = "Resourceful Lib"
+filename = "resourcefullib-neoforge-1.21-3.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/XjYVlVPE/resourcefullib-neoforge-1.21-3.0.11.jar"
+hash-format = "sha512"
+hash = "b51942d0a252161988daa2bff841044a426e197bd876d0bf89191e89471d38f21946010a5cac6f8dcd0064390ff19d60f20f77a0d45a4541e8a19e2fc18ff9d1"
+
+[update]
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "XjYVlVPE"

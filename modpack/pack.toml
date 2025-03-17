@@ -1,0 +1,13 @@
+name = "create-perfect-world"
+author = "ilGuappo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f888ddddd622a93dbb9822175136e1f4fb6bdf8a4d8d322bad2ecb3dc1d0e55f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.133"

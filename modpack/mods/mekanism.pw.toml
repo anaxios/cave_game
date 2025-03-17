@@ -1,0 +1,13 @@
+name = "Mekanism"
+filename = "Mekanism-1.21.1-10.7.12.77.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ce6I4WUE/versions/XdoAtefU/Mekanism-1.21.1-10.7.12.77.jar"
+hash-format = "sha512"
+hash = "bcf18acbe9a1028e2f216aabc97d098fd73cfd685f2076c18e26770c2685e5afa4e225eaf9e10df49d6ad01f6ddd13b296aad5781ea22a5284fedfa1aca94f24"
+
+[update]
+[update.modrinth]
+mod-id = "Ce6I4WUE"
+version = "XdoAtefU"

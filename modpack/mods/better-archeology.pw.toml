@@ -1,0 +1,13 @@
+name = "Better Archeology"
+filename = "betterarcheology-neoforge-1.3.1-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/5vhgUUvQ/betterarcheology-neoforge-1.3.1-1.21.jar"
+hash-format = "sha512"
+hash = "96d7eea47440986e6313a783e5bbac8a5faea9640ae278608d5b861859c889977aa473714a3fe63aa138aadeaca87ab46653936036a8d50ced65b06cc2d6446f"
+
+[update]
+[update.modrinth]
+mod-id = "zCh7omyG"
+version = "5vhgUUvQ"
