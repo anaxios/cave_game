@@ -2,6 +2,8 @@
 
 *.zip
 !cave_game-prism-latest.zip
+!modpack/config/openloader/data/*.zip
+!modpack/config/openloader/resources/*.zip
 
 
 # Exclude exported Modrinth modpacks
