@@ -7,15 +7,17 @@ Submit feedback by creating a new Issue [here](https://github.com/anaxios/cave_g
 ### Step 1: Download and Set Up Prism Launcher
 
 1. Download Prism Launcher - Go to https://prismlauncher.org/ and download the latest version of Prism Launcher for your operating system.
-1. Log In to Your Minecraft Account - Open Prism Launcher. - Log in with your Minecraft account credentials.
-1. Create a New Instance - In Prism Launcher, click on the “Instances” tab. - Select “Add Instance” to create a new instance.
-1. Choose Import - In the instance creation window, select “Import” as the source for modpacks. - Paste this URL into the input field.
-
-```
-https://github.com/anaxios/cave_game/releases/download/v1.0.0/cave_game-prism-v1.0.0.zip
-```
-
-You are now set up to play on our modded Minecraft server!
+1. Download the modpack from [Releases](https://github.com/anaxios/cave_game/releases) page.
+   - Scroll to the Assets and download the prism .zip
+1. Log In to Your Minecraft Account
+   - Open Prism Launcher.
+   - Log in with your Minecraft account credentials.
+1. Create a New Instance
+   - In Prism Launcher, click on the “Instances” tab.
+   - Select “Add Instance” to create a new instance.
+1. Choose Import
+   - In the instance creation window, select “Import” as the source for modpacks.
+   - Browse to your Downloads folder and select the .zip.
 
 ## Major Mods
 
