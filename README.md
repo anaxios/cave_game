@@ -12,7 +12,7 @@ Submit feedback by creating a new Issue [here](https://github.com/anaxios/cave_g
 1. Choose Import - In the instance creation window, select “Import” as the source for modpacks. - Paste this URL into the input field.
 
 ```
-https://github.com/anaxios/cave_game/raw/refs/heads/latest/modpack/cave_game-prism.zip
+https://github.com/anaxios/cave_game/releases/download/v1.0.0/cave_game-prism-v1.0.0.zip
 ```
 
 You are now set up to play on our modded Minecraft server!
