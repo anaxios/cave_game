@@ -1,72 +1,76 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/packs/data/VanillaTweaks_c717763_MC1.20-1.20.6.zip"
+file = "config/openloader/data/VanillaTweaks_c717763_MC1.20-1.20.6.zip"
 hash = "e4801d732004e7b05b9f5228f8d7aa394003c64c5896974fbd686362a923e602"
 
 [[files]]
-file = "config/openloader/packs/data/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip"
 hash = "b637f7394e4e4931194e1b6872ffb5486f7ae8854c61b492468452c26b91ff91"
 
 [[files]]
-file = "config/openloader/packs/data/anti ghast grief v1.1.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/anti ghast grief v1.1.7 (MC 1.20-1.20.6).zip"
 hash = "c4304d73cbbfb7aafd84bd8a2d01b305e81c34205b591e06495d2bd500709cd0"
 
 [[files]]
-file = "config/openloader/packs/data/armored elytra v2.0.0 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/armored elytra v2.0.0 (MC 1.20-1.20.6).zip"
 hash = "0c86f54537849646c157cfd23c386d2686b1e94e2ee91bddce4ebaafb768aa3e"
 
 [[files]]
-file = "config/openloader/packs/data/cave_game_custom.zip"
+file = "config/openloader/data/cave_game_custom.zip"
 hash = "0b048cca3385232c33b8eb0eeff961f7feec4285944f3ce173bca12248f2b313"
 
 [[files]]
-file = "config/openloader/packs/data/chunk loaders v1.0.8 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/chunk loaders v1.0.8 (MC 1.20-1.20.6).zip"
 hash = "9b1e876de2f4976dd745c54c3ad49e1fa49f4cf5db97a76ea126f5e29174b76f"
 
 [[files]]
-file = "config/openloader/packs/data/confetti creepers v2.2.8 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/confetti creepers v2.2.8 (MC 1.20-1.20.6).zip"
 hash = "8f0692bf66a46194f1c7203c0eeb48f04858eca3868521aac427679d5de55d61"
 
 [[files]]
-file = "config/openloader/packs/data/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
 hash = "3d051c91543d4cf46276531d1a5ed787bf40b5bb329ac7dedf7425b4fcb797ec"
 
 [[files]]
-file = "config/openloader/packs/data/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip"
 hash = "9892d5df79761f9394ddacbdc2885e485f898fdfa8dbfebea4fb8726aa0a089d"
 
 [[files]]
-file = "config/openloader/packs/data/dragon drops v1.3.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/dragon drops v1.3.7 (MC 1.20-1.20.6).zip"
 hash = "d5800bd4130b4643ef82585780d437136053d138c1387ba93d3e423fc366ca0e"
 
 [[files]]
-file = "config/openloader/packs/data/pillager tools v1.1.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/pillager tools v1.1.7 (MC 1.20-1.20.6).zip"
 hash = "70fb22c452b8cbfba0a0f308f323d223fbadd3db39c7cd0231efee3c20372624"
 
 [[files]]
-file = "config/openloader/packs/data/spectator conduit power v1.1.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/spectator conduit power v1.1.7 (MC 1.20-1.20.6).zip"
 hash = "f45e9eae4e9954ea4b0e191cc7222b82519bbc775b8850826aee6ca07667d5d6"
 
 [[files]]
-file = "config/openloader/packs/data/spectator night vision v1.1.7 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/spectator night vision v1.1.7 (MC 1.20-1.20.6).zip"
 hash = "02400f1c3037077ba2f84bec5260c55b28afa3b5ed100e5a55e32913869939bb"
 
 [[files]]
-file = "config/openloader/packs/data/tag v2.1.8 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/tag v2.1.8 (MC 1.20-1.20.6).zip"
 hash = "b45cdf1ce3cfe2dfc49888ca3b94ad614a376883214ca767af7c9a7fc8b801ba"
 
 [[files]]
-file = "config/openloader/packs/data/unlock all recipes v2.0.8 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/unlock all recipes v2.0.8 (MC 1.20-1.20.6).zip"
 hash = "c409d8e6609babc7ad45462919d2ae381bdab87469d5c1343016087c0ecb8af6"
 
 [[files]]
-file = "config/openloader/packs/data/villager death messages v1.2.9 (MC 1.20-1.20.6).zip"
+file = "config/openloader/data/villager death messages v1.2.9 (MC 1.20-1.20.6).zip"
 hash = "7f656a1dc0932df5d281ccc8c2145d5f59c07006357d207f2af732a58590170b"
 
 [[files]]
-file = "config/openloader/packs/resources/VanillaTweaks_r743510_MC1.20.x.zip"
+file = "config/openloader/resources/VanillaTweaks_r743510_MC1.20.x.zip"
 hash = "916ebb0fac947fdbbc7a95fbdb24b72068f780abdfef330f0bc5cac6af8a5124"
+
+[[files]]
+file = "config/openloader/resources/easter_egg-1.21.1.zip"
+hash = "45139290f2efa95268c11a8435b7c957205cfa65968ccb66045330f3792502ef"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
