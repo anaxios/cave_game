@@ -1,0 +1,13 @@
+name = "Open Loader"
+filename = "OpenLoader-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/Mviyd3ek/OpenLoader-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha512"
+hash = "d46a385547b69d90d82f0163ba8363cfc547f33ec659914ad6d3931c0f97ff1d38337fdf8b61d0c001184f5ff0f7664a4f5092fb3ab7fe3c86e68a8edac38797"
+
+[update]
+[update.modrinth]
+mod-id = "KwWsINvD"
+version = "Mviyd3ek"

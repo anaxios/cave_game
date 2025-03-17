@@ -1,0 +1,13 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.39.4_NeoForge_1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/JlPz5UbU/XaerosWorldMap_1.39.4_NeoForge_1.21.jar"
+hash-format = "sha512"
+hash = "a8a0539a540225f992802e63b3719d4d5f6066e4a26bdb8a9d36349eb2abe080316a4549a1d4a63e888aa33858d5ea86c051ce4e524c2251b5ed5b8549cde466"
+
+[update]
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "JlPz5UbU"

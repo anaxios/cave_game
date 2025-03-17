@@ -1,0 +1,13 @@
+name = "Complete Turtle Armor"
+filename = "complete_turtle_armor_-1.0.0-beta-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nZrD8ZJC/versions/RUu06RnF/complete_turtle_armor_-1.0.0-beta-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "ac98ab01024612e1eb6d924ff932fc7433d5ff7ce702bf6e900421ddf8d4e4a880dbef00b18e96518d40d9ecd454c264706dcb9225d58f67e03a8f301a73588c"
+
+[update]
+[update.modrinth]
+mod-id = "nZrD8ZJC"
+version = "RUu06RnF"
