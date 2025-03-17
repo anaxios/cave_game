@@ -1,10 +1,12 @@
 # Exclude exported CurseForge zip files
 
 *.zip
-!cave_game-prism-latest.zip
-!modpack/config/openloader/data/*.zip
-!modpack/config/openloader/resources/*.zip
 
+# Preserve PrismLauncher instance
+!cave_game-prism-latest.zip
+
+# Preserve datapacks and resourcepacks
+!modpack/config/openloader/**
 
 # Exclude exported Modrinth modpacks
 
