@@ -1,0 +1,13 @@
+name = "Tom's Trading Network"
+filename = "toms_trading_network-fabric-1.20-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x5iQ3NM5/versions/Vq76oaXQ/toms_trading_network-fabric-1.20-0.3.0.jar"
+hash-format = "sha512"
+hash = "2f4de988746b6b5e395d64bd00213fd56d245559f47c41dbe8a40a0466d3454b81c82a5259e482c2bfe5f256e340f4c22bc0e0dbe889d3ab16a311d52fb6999f"
+
+[update]
+[update.modrinth]
+mod-id = "x5iQ3NM5"
+version = "Vq76oaXQ"

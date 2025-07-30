@@ -1,0 +1,13 @@
+name = "Starter Kit"
+filename = "starterkit-1.20.1-7.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/B4VOArC1/starterkit-1.20.1-7.3.jar"
+hash-format = "sha512"
+hash = "4b49b1df6946f0bcb9a9717f7fbe36ae5478cf011fdcfe1c0af6c96c26c38ca55f49b5e9cefd28d4779794e163bee25ca8884d0c3c12b4e859956d572dfef8fa"
+
+[update]
+[update.modrinth]
+mod-id = "6L3ydNi8"
+version = "B4VOArC1"

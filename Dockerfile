@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY cave_game/ /usr/share/nginx/html/
+COPY modpack/ /usr/share/nginx/html/

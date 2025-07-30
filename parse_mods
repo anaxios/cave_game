@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+
+strip_quote() {
+    local s="$1"
+    s="${s%\"}"
+    printf '%s\n' "${s#\"}"
+}
+
+mod_id() {
+    local file="$1"
+    local line
+    local -a tmp
+    while read -r line; do
+        if [[ "$line" =~ ^side[[:space:]]*=[[:space:]]*\"client\" ]]; then break; fi 
+        if [[ "$line" =~ ^mod-id.* ]]; then
+            tmp+=("$line")
+        fi
+    done < <(cat "$file")
+
+    local labal equal id
+    IFS=' '; while read -r label equal id; do
+        printf '%s\n' "$(strip_quote $id)"
+    done <<<"${tmp[@]}"
+    IFS=\n
+}
+
+for f in "./cave_game/mods/"*; do
+    a+=("$(mod_id "$f")")
+done
+echo ${a[*]}
