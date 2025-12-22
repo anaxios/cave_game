@@ -318,11 +318,6 @@ hash = "e8e70aea617237c1ad95883dba901d8e9b7570cb52f885d38b33a3e7db47da81"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
-metafile = true
-
-[[files]]
 file = "mods/gjeb.pw.toml"
 hash = "cb73822a3602781cc5a5508b5d96f0bd4025cff0609edbb85a1ec1f190ec8e75"
 metafile = true
@@ -425,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/mmlib.pw.toml"
 hash = "59f033615895cd019f9fb168fa93590422c5050274630a8faec46460979a5156"
+metafile = true
+
+[[files]]
+file = "mods/moderner-beta.pw.toml"
+hash = "9a7e4ce14b688eefa2d0f910bf0a255eb62cf1aeaae0178834ff9f7ea00218e6"
 metafile = true
 
 [[files]]
