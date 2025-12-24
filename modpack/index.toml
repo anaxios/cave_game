@@ -89,6 +89,16 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/autocrafter-early.pw.toml"
+hash = "3401da1489b50010f8b31cfa1fc8d9ac20fba41f7439e23a5ccce8455c9f2b0a"
+metafile = true
+
+[[files]]
+file = "mods/backported-spears.pw.toml"
+hash = "7c4e3ab42f75a891056e9c9d531af07efec3e7e9c6a5621234c4caf084986be5"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
@@ -456,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "d806cab693925db51ec429bd5aaaf7d7872793be835b346066b76941c08bcb13"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-armor-and-tools.pw.toml"
+hash = "9c09ff62ee0ab4a7e28cbd8ffd3a8e599dd84e04f032d3ed2722f47c8a6dc9d1"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Simple Copper Armor and Tools"
+filename = "enders-copperitems-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GyygchZm/versions/TDfPsC0W/enders-copperitems-1.2.0.jar"
+hash-format = "sha512"
+hash = "137faea39e5b79f3e935cf2cdde4cf143be62a9c1e9a9249a220680ba44ed00a849ac569eb718f5d68aa82115ada9953069ef935c3cc41dbc18f3203f006f6a9"
+
+[update]
+[update.modrinth]
+mod-id = "GyygchZm"
+version = "TDfPsC0W"
