@@ -459,11 +459,6 @@ hash = "d806cab693925db51ec429bd5aaaf7d7872793be835b346066b76941c08bcb13"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
