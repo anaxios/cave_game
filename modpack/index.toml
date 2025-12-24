@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
+hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
@@ -456,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "d6b8069830f2ee4a37a75976ae4ffccb978fa46699ca39f96895eaff53f679bd"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "177b37256afd171f2e5447434057f604acd09b5328e85e46ed4c5399f90269f5"
 metafile = true
 
 [[files]]
