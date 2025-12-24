@@ -1,13 +1,13 @@
 name = "Global Packs"
-filename = "globalpacks-fabric-1.20.1-19.3.5.jar"
+filename = "globalpacks-fabric-1.20.1-19.3.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/TbR0FAFL/globalpacks-fabric-1.20.1-19.3.5.jar"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/FvJKocea/globalpacks-fabric-1.20.1-19.3.7.jar"
 hash-format = "sha512"
-hash = "0503ce4bf850bbd750803a4a3cbe2fce80234a10332d54d552d63dfc434d75854426acdb619c207b12af196a0138dc838d3aeba22375b9b66d6fa81fdf5fe0aa"
+hash = "3066105d09b4cd760b1e98395ec97bfe1ac70266e9bb2581d3f471e473830532076b39cb8906036a03e77e418ab9d8e9313f5f078d034defaa242c5f1d1b8450"
 
 [update]
 [update.modrinth]
 mod-id = "NRLPy2mk"
-version = "TbR0FAFL"
+version = "FvJKocea"
