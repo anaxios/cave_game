@@ -164,11 +164,6 @@ hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
 metafile = true
 
 [[files]]
-file = "mods/construction-wand-fabric.pw.toml"
-hash = "f976a8c38e843a680e0cc0bf21dfc23e50c98e58be040488f5d54241feb2accf"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
