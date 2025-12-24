@@ -129,11 +129,6 @@ hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
 
 [[files]]
-file = "mods/chickensshed.pw.toml"
-hash = "b549c48d1b03777748cc4c11dd645e2a23c6df41a803e423fc7a9bf6647c4409"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
